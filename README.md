@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mouhameth
 - 👀 I’m interested in Risk Modeling and Machine Learning.
-- 🌱 I’m currently preparing the FRM part 1 exam 
 - 💞️ I’m looking to collaborate on any Financial Innovation Challenge specialy in risk management, leveraging technology & machine learning
 
 <!---
